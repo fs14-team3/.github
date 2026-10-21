@@ -1,0 +1,23 @@
+name: 기능 · 작업
+description: 새 기능 또는 작업
+type: Feature
+projects: ['fs14-team3/1']
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: 개요
+      description: 문제점이나 목표를 1~2줄로 간략하게
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+  - type: textarea
+    id: done-when
+    attributes:
+      label: Done When
+      value: |
+        - [ ] 확인 가능한 결과 1
+        - [ ] 확인 가능한 결과 2
