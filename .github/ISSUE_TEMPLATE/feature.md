@@ -1,5 +1,5 @@
 ---
-name: 기능
+name: 기능 · 작업
 about: 새 기능 또는 작업
 title: ''
 type: Feature
