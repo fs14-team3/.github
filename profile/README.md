@@ -22,11 +22,11 @@
 
 ## 팀
 
-| 이름   | 역할         | 담당                      | GitHub                                   |
-| ------ | ------------ | ------------------------- | ---------------------------------------- |
-| 원태웅 | 팀장, 인프라 | 팀 운영, AWS 배포와 CI/CD | [@USERNAME](https://github.com/USERNAME) |
-| 채하은 | FE 리드      | 프론트엔드 팀 리더        | [@USERNAME](https://github.com/USERNAME) |
-| 이현지 | BE 리드      | 백엔드 팀 리더            | [@USERNAME](https://github.com/USERNAME) |
-| 이강연 | PM           | 요구사항 정리, 일정 관리  | [@USERNAME](https://github.com/USERNAME) |
-| 김민선 | 팀원         | 기능 개발                 | [@USERNAME](https://github.com/USERNAME) |
-| 김건우 | 팀원         | 기능 개발                 | [@USERNAME](https://github.com/USERNAME) |
+| 이름   | 역할         | 담당                      | GitHub                                           |
+| ------ | ------------ | ------------------------- | ------------------------------------------------ |
+| 원태웅 | 팀장, 인프라 | 팀 운영, AWS 배포와 CI/CD | [@taewon-wn](https://github.com/taewon-wn)       |
+| 채하은 | FE 리드      | 프론트엔드 팀 리더        | [@haeun-chae](https://github.com/haeun-chae)     |
+| 이현지 | BE 리드      | 백엔드 팀 리더            | [@USERNAME](https://github.com/USERNAME)         |
+| 이강연 | PM           | 요구사항 정리, 일정 관리  | [@kangyeon0413](https://github.com/kangyeon0413) |
+| 김민선 | 팀원         | 기능 개발                 | [@aksths](https://github.com/aksths)             |
+| 김건우 | 팀원         | 기능 개발                 | [@Kim-Geonwoo](https://github.com/Kim-Geonwoo)   |
