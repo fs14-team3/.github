@@ -1,6 +1,5 @@
 name: 기능 · 작업
 description: 새 기능 또는 작업
-type: Feature
 projects: ['fs14-team3/1']
 body:
   - type: textarea
