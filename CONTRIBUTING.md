@@ -38,8 +38,8 @@ docs: README 실행 방법 수정
 - 배포는 `develop` → `main` PR로 하고, 이 PR만 **Merge commit**으로 머지합니다. squash하면 두 브랜치의 이력이 어긋납니다.
 - 본문에 `Closes #이슈번호`를 적어 이슈를 자동으로 닫습니다.
 - 리뷰 승인 1명 이상, CI 통과, 리뷰 코멘트 모두 resolve 후 머지합니다.
-- PR은 작게 유지합니다. 하나의 PR은 하나의 이슈를 다룹니다.
-- **API 변경**: `moving-be`의 `docs/api/openapi.yaml`을 같은 PR에서 수정합니다. FE 팀 리뷰가 필요합니다 (CODEOWNERS).
+- PR은 작게 유지합니다.
+- **API 변경**: `moving-be`의 `docs/api/openapi.yaml`을 같은 PR에서 수정합니다. 
 - **환경 변수 추가**: `.env.example`과 README의 환경 변수 표를 같은 PR에서 수정합니다.
 
 ## 이슈
